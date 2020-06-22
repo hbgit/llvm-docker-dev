@@ -4,7 +4,7 @@
 # Usage:
 #
 #  By gitclone:
-#   $ docker build -t hrocha/llvm-docker-dev:v8 --no-cache -f Dockerfile .
+#   $ docker build -t herberthb/llvm-docker-dev:v8 --no-cache -f Dockerfile .
 #
 ############################################################
 
